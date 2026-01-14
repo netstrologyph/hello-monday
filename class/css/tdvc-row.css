@@ -1,0 +1,66 @@
+.wp-picker-container .wp-color-result.button {
+    min-height: 50px;
+    margin: 0 6px 6px 0;
+    padding: 0 0 0 40px;
+    font-size: 11px;
+}
+
+body .wp-color-result-text {
+    display: block;
+    line-height: 4.54545455;
+  
+}
+
+.tdvc-row-colors2 {
+    margin-left: 160px;
+    position: relative;
+    top: -80px;
+}
+
+.tdvc-row-colors3 {
+    float: right;
+    right: 0;
+    margin: auto;
+    margin-left: 300px !IMPORTANT;
+    top: -160px;
+    position: relative;
+}
+
+.tdvc-row-colors4 {
+    position: relative;
+    top: -160px;
+    left: 15px;
+}
+
+.tdvc-row-colors5 {
+    position: relative;
+    top: -240px;
+    left: 160px;
+}
+
+.tdvc-row-colors6 {
+    position: relative;
+    top: -320px;
+    left: 300px;
+}
+
+.fancy-background-anima {
+    margin-top: -320px;
+    position: relative;
+    left: 15px;
+}
+
+.fancy-background-speed {
+    margin-top: -230px;
+    position: relative;
+    left: 15px;
+}
+
+
+.fancy-background-speed {
+    top: -90px;
+}
+
+.pisota div {
+    opacity: 1 !important;
+}

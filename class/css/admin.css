@@ -1,0 +1,13 @@
+/**
+ * Worker creates a modern and stylish WPBakery addon to display business hours.
+ * Exclusively on Envato Market: https://1.envato.market/worker-wpbakery
+ *
+ * @encoding        UTF-8
+ * @version         1.0.3
+ * @copyright       Copyright (C) 2018 - 2021 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    {{contributors}}
+ * @support         dmitry@merkulov.design
+ **/
+#setting-error-settings_updated {
+  display: none !important; }
